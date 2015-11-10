@@ -1,0 +1,25 @@
+{
+	"tenant": "1447156006446",
+	"login": "rso",
+	"roles": {
+		"list": [
+			"guest",
+			"shared_guest"
+		],
+		"default": "guest"
+	},
+	"rights": [],
+	"email": null,
+	"type": "",
+	"lastName": "",
+	"firstName": "",
+	"kind": "application",
+	"application": "demo",
+	"_id": "5641dcdce18d0b9e504c8bb2",
+	"pass": "rso1234",
+	"versioning": {
+		"status": "committed",
+		"user": "https://bluemix.marketplace.ibmcloud.com/openid/id/36f06656-85cc-46a2-abd2-33e7fba05f86",
+		"last_action": "1447156956"
+	}
+}
