@@ -1,0 +1,32 @@
+{
+	"_id": "5641dab4e18d0b9e504c8bae",
+	"title": "Home",
+	"name": "Home",
+	"requestDate": "2015-11-10T12:01:55.449Z",
+	"ownerId": "",
+	"application": "demo",
+	"visibility": "visible",
+	"layout": {
+		"fixedlayout": "no",
+		"widgetspacing": "yes",
+		"width": "100%",
+		"backgroundcolor": "white",
+		"rows": [
+			{
+				"columns": [
+					{
+						"width": "12",
+						"widgets": [
+							{
+								"name": "BonjourRachid",
+								"id": "45883"
+							}
+						]
+					}
+				],
+				"id": ""
+			}
+		]
+	},
+	"category": "Default"
+}
